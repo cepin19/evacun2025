@@ -1,6 +1,6 @@
 # evacun2025
 
-Code for training, running and evaluating CUNI submission to the EvaCun 2025 token restoration shared task.
+Code for training, running and evaluating CUNI submission to the EvaCun 2025 token restoration shared task (https://digitalpasts.github.io/EvaCUN/Evaluation/).
 Our best checkpoint can be downloaded from: https://huggingface.co/cepin/Mistral-Small-24B-Instruct-2501-unsloth-bnb-4bit_evacun_task
 
 After saving the model into directory model/, you can run evaluation on our held-out dev set:
